@@ -11,3 +11,8 @@ An Animated user profiles list.
 3. [ ] Go to profile section
 4. [ ] See all users list
 5. [ ] ...
+
+
+### Guide to create
+
+- ABC...
