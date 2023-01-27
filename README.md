@@ -6,11 +6,11 @@ An Animated user profiles list.
 
 ### Features
 
-1. [ ] Login
-2. [ ] Logout
-3. [ ] Go to profile section
-4. [ ] See all users list
-5. [ ] ...
+- [ ] Login
+- [ ] Logout
+- [ ] Go to profile section
+- [ ] See all users list
+- [ ] ...
 
 
 ### Guide to create
